@@ -8,11 +8,11 @@ The beauty of opensource is that you do not have to reinvent the wheel.
 LunCo will incorporate certain mechanics as well as contribute to development of modules it's build from
 
 ## Development process
-1. Uses git lfs to store binary files e.g. Blender, meshes, etc
+1. Uses **git lfs** to store binary files e.g. Blender, meshes, etc
 2. Blender 3.1.2 video sequencer
 3. Godot 3.5-rc2
 
-### How to use git lfs
+### How to use **git lfs**
 <details>
     <summary>
         How to install git lfs (click to expand)
