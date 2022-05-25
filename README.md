@@ -59,8 +59,11 @@ LunCo will incorporate certain mechanics as well as contribute to development of
         How to commit binary files (click to expand)
     </summary>
 
-1. Create .gitattributes
-2. Add all you'd like to track like in .gitignore
+1. Start tracking files
+   
+   git lfs track  "*.blend", "*.png", "*.jpg", "*.jpeg", "*.tif", "*.gif", "*.bmp", "*.svg"
+
+2. With with files as usual
 
 </details>
 
