@@ -1,4 +1,4 @@
-# lunco-vision-video
+# LunCo – vision video
 Video that explains what LunCo (Lunar Colony) sim is about
 
 This video is a compulation of opensource projects builds using Godot.
@@ -7,18 +7,16 @@ The beauty of opensource is that you do not have to reinvent the wheel.
 
 LunCo will incorporate certain mechanics as well as contribute to development of modules it's build from
 
-
-## References
-- []
-
-
 ## Development process
 1. Uses git lfs to store binary files e.g. Blender, meshes, etc
-2. Video is made in Blender
+2. Blender 3.1.2 video sequencer
+3. Godot 3.5-rc2
 
-
-## How to use git lfs
-
+### How to use git lfs
+<details>
+    <summary>
+        How to install git lfs (click to expand)
+    </summary>
 1. Install git lfs:
    a. MacOS: 
 
@@ -29,9 +27,12 @@ LunCo will incorporate certain mechanics as well as contribute to development of
 2. Activate it (need only once on machine):
 
         git lfs install
+</details>
 
-### How to clone and use this repo with **git lfs**
-
+<details>
+    <summary>
+        How to clone and use this repo with git lfs (click to expand)
+    </summary>
 1. Clone repo:
 
     git lfs clone git@github.com:LunCoSim/lunco-vision-video.git
@@ -45,3 +46,12 @@ LunCo will incorporate certain mechanics as well as contribute to development of
         git lfs pull
 
 3. Now all the Blender models will be downloaded to your computer. Start using them!
+</details>
+
+## References
+- [Moonwards](https://www.moonwards.com/) – opensource Lunar City in Godot, lot of assets under MIT
+- [iVoyager](https://www.ivoyager.dev) – a development platform for creating games and educational apps in a realistic solar system, Godot, Apache 2.0
+
+## Assets
+1. [Starship model](assets/spacex-starship) created by [MartianDays](https://sketchfab.com/3d-models/spacex-starship-a8a0b69f776841a1a465cd9fb3762fd2)
+2. [NASA Moon CGI KIL](https://svs.gsfc.nasa.gov/4720)
