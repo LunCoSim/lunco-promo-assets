@@ -70,7 +70,7 @@ LunCo will incorporate certain mechanics as well as contribute to development of
 ## Working links
 1. [GDrive Folder](https://drive.google.com/drive/folders/1kXaDdBHZzVz9pUX2A4YdBb3VB-5wSa1N)
 2. [[LC] Promo video scenario](https://docs.google.com/document/d/1y03LFw0OrJzWzCRbytXVZDpjvkK76Bef6JaJv8zoX0o/edit)
-3. [Presentation](https://docs.google.com/presentation/d/1rjc6WJCQ80JA8rv8nWIWSLqtW2pPJdPbT8ID6pyXw54/edit#slide=id.p)
+3. [[LC] Promo video storyboard](https://docs.google.com/presentation/d/1rjc6WJCQ80JA8rv8nWIWSLqtW2pPJdPbT8ID6pyXw54/edit#slide=id.p)
 
 ## References
 - [Moonwards](https://www.moonwards.com/) – opensource Lunar City in Godot, lot of assets under MIT
