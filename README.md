@@ -17,16 +17,20 @@ LunCo will incorporate certain mechanics as well as contribute to development of
     <summary>
         How to install git lfs (click to expand)
     </summary>
-1. Install git lfs:
-   a. MacOS: 
 
-        brew install git-lfs
+   1. Install git lfs:
 
-    b. Other os check [git lfs](https://git-lfs.github.com)
+   1.1 MacOS: 
 
-2. Activate it (need only once on machine):
+    brew install git-lfs
 
-        git lfs install
+   1.2 Other OS:
+
+    [git lfs](https://git-lfs.github.com)
+
+   1. Activate **git lfs** (once on computer):
+
+            git lfs install
 </details>
 
 <details>
@@ -46,6 +50,18 @@ LunCo will incorporate certain mechanics as well as contribute to development of
         git lfs pull
 
 3. Now all the Blender models will be downloaded to your computer. Start using them!
+
+4. Push & pull binary files as reqular
+</details>
+
+<details>
+    <summary>
+        How to commit binary files (click to expand)
+    </summary>
+
+1. Create .gitattributes
+2. Add all you'd like to track like in .gitignore
+
 </details>
 
 ## References
