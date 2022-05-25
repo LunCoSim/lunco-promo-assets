@@ -67,6 +67,11 @@ LunCo will incorporate certain mechanics as well as contribute to development of
 
 </details>
 
+## Working links
+1. [GDrive Folder](https://drive.google.com/drive/folders/1kXaDdBHZzVz9pUX2A4YdBb3VB-5wSa1N)
+2. [[LC] Promo video scenario](https://docs.google.com/document/d/1y03LFw0OrJzWzCRbytXVZDpjvkK76Bef6JaJv8zoX0o/edit)
+3. [Presentation](https://docs.google.com/presentation/d/1rjc6WJCQ80JA8rv8nWIWSLqtW2pPJdPbT8ID6pyXw54/edit#slide=id.p)
+
 ## References
 - [Moonwards](https://www.moonwards.com/) – opensource Lunar City in Godot, lot of assets under MIT
 - [iVoyager](https://www.ivoyager.dev) – a development platform for creating games and educational apps in a realistic solar system, Godot, Apache 2.0
@@ -74,3 +79,5 @@ LunCo will incorporate certain mechanics as well as contribute to development of
 ## Assets
 1. [Starship model](assets/spacex-starship) created by [MartianDays](https://sketchfab.com/3d-models/spacex-starship-a8a0b69f776841a1a465cd9fb3762fd2)
 2. [NASA Moon CGI KIL](https://svs.gsfc.nasa.gov/4720)
+
+
