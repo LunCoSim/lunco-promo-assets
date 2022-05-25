@@ -70,6 +70,7 @@ LunCo will incorporate certain mechanics as well as contribute to development of
 ## Workflow
 
 1. Every asset is stored in it's own branch and then merged to main. TBD improve
+2. Start branch from "initial" tag
    
 ## Working links
 1. [GDrive Folder](https://drive.google.com/drive/folders/1kXaDdBHZzVz9pUX2A4YdBb3VB-5wSa1N)
