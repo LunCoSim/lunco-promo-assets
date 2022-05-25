@@ -67,6 +67,10 @@ LunCo will incorporate certain mechanics as well as contribute to development of
 
 </details>
 
+## Workflow
+
+1. Every asset is stored in it's own branch and then merged to main. TBD improve
+   
 ## Working links
 1. [GDrive Folder](https://drive.google.com/drive/folders/1kXaDdBHZzVz9pUX2A4YdBb3VB-5wSa1N)
 2. [[LC] Promo video scenario](https://docs.google.com/document/d/1y03LFw0OrJzWzCRbytXVZDpjvkK76Bef6JaJv8zoX0o/edit)
