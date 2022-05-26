@@ -86,3 +86,7 @@ LunCo will incorporate certain mechanics as well as contribute to development of
 2. [NASA Moon CGI KIL](https://svs.gsfc.nasa.gov/4720)
 
 
+## Used assets
+1. [Epic Adventure Cinematic Music by Alex-Productions ( No Copyright Music ) _ Free Music _ MOVIE _ (320 kbps)](https://www.youtube.com/watch?v=UKrwAHOv7R8&list=PL1XHFFKibREZAkghK-vHfIDSBGf7BSIQp&index=6)
+
+
